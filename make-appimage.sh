@@ -12,6 +12,7 @@ export ICON=/usr/share/icons/hicolor/512x512/apps/org.purei.Play.png
 export DESKTOP=/usr/share/applications/org.purei.Play.desktop
 export DEPLOY_OPENGL=1
 export DEPLOY_VULKAN=1
+export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/Play
