@@ -12,6 +12,7 @@ export ICON=/usr/share/icons/hicolor/512x512/apps/org.purei.Play.png
 export DESKTOP=/usr/share/applications/org.purei.Play.desktop
 export STARTUPWMCLASS=Play
 export DEPLOY_QT=1
+export QT_DIR=qt6
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
