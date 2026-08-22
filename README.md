@@ -3,7 +3,7 @@
 # Play-AppImage-Enhanced 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Play-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Play-AppImage-Enhanced/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Play-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Play-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Play-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Play-AppImage-Enhanced/releases/latest)
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Play-AppImage-Enhanced)](https://github.com/pkgforge-dev/Play-AppImage-Enhanced/releases/latest)
 
 <p align="center">
